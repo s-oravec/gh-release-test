@@ -1,1 +1,1 @@
-prompt tradaa
+prompt tradaa 0.1.0-2
